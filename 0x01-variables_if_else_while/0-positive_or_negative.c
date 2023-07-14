@@ -1,10 +1,11 @@
-#include <stdlib.h>
+i#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * main - 
+ * main - entry point
  *
- * Description: A Programm Prints a number and whether it is positive, negative or zero.
+ * Description: Prints a number and whether it is positive, negative or zero.
  *
  * Return: 0
  */
