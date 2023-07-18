@@ -1,7 +1,6 @@
 #include "main.h"
-/* 
- * main - Entry point
- * Return: always
+/*
+ * _putchar writes the character c to stdout 
  */
 int main(void)
 {
